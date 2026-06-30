@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0129/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0129/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞真太上八素真經精耀三景妙訣
+  date: '2015-08-29 02:58:22.091625'
+  source:
+    repository: kanripo
+    path: KR5g0129
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0129_000-HFL.yaml, hash: 'sha256:0a69d02ad9f80b02441ffb7ba0d7b54881f1e350985dec700a0d41ee5d68fcc1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0129_000-HFL.markers.yaml, hash: 'sha256:a9141ab2595ad110781682eef574f70f16655c415850f5a0f53e01aa18a08477'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0129_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 1467
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:1f29e97dbd762be8f4355be85677fb4cc99dd6f0cc1735181c557473af3c3109
